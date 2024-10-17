@@ -2,6 +2,11 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: #474e5d;
+  font-family: Helvetica, sans-serif;
+}
+
 .navbar {
   overflow: hidden;
   background-color: #333;
@@ -29,11 +34,6 @@
   padding: 16px;
   margin-top: 30px;
   height: 1500px; /* Used in this example to enable scrolling */
-}
-
-body {
-  background-color: #474e5d;
-  font-family: Helvetica, sans-serif;
 }
 
 /* The actual timeline (the vertical ruler) */
