@@ -31,7 +31,7 @@ p {
 
 .mainDetails {
 	padding: 25px 35px;
-	border-bottom: 2px solid #cf8a05;
+	border-bottom: 2px solid #0084ff;
 	background: #ededed;
 }
 
@@ -114,7 +114,7 @@ section:last-child {
 
 .sectionTitle {
 	float: left;
-	width: 25%;
+	width: 15%;
 }
 
 .sectionContent {
@@ -126,7 +126,7 @@ section:last-child {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	font-style: italic;
 	font-size: 1.5em;
-	color: #cf8a05;
+	color: #0084ff;
 }
 
 .sectionContent h2 {
